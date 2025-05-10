@@ -1,26 +1,26 @@
-<!-- Encabezado animado -->
+<!-- Animated Header -->
 <p align="center">
   <a href="https://github.com/Nicolas-Lastra">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Nicol%C3%A1s+Lastra+Inzunza;Desarrollador+Full+Stack+Java+%7C+Front-End;Apasionado+por+la+tecnolog%C3%ADa+y+el+aprendizaje+constante" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nicol%C3%A1s+Lastra+Inzunza;Full+Stack+Java+Developer+%7C+Front-End+Developer;Passionate+about+tech+and+continuous+learning" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 Sobre mí
+### 👨‍💻 About Me
 
-- 🌍 Desde Lago Verde, Región de Aysén, Chile 🇨🇱
-- 🎓 Ingeniero Mecánico en proceso de transición al mundo TI
-- 🧑‍💻 Desarrollador Full Stack con enfoque en Java y tecnologías web
-- 📚 Formación:
-  - Bootcamp Full Stack Java con certificación SENCE
-  - Curso de JavaScript en CoderHouse (en curso)
-- 🌐 Proyecto destacado: [aromaaustral.cl](https://aromaaustral.cl/)
-  - Sitio web desarrollado con HTML, CSS, SASS, Bootstrap y JavaScript (formulario con Formspree)
+- 🌍 Based in Lago Verde, Aysén Region, Chile 🇨🇱
+- 🔄 Former Mechanical Engineer transitioning into the tech industry
+- 💻 Full Stack Developer focused on Java and web technologies
+- 📚 Education:
+  - Full Stack Java Bootcamp (SENCE certified, Chile)
+  - Web Development at CoderHouse (currently in progress)
+- 🌐 Highlighted Project: [aromaaustral.cl](https://aromaaustral.cl/)
+  - Website built using HTML, CSS, SASS, Bootstrap, and JavaScript (Formspree integration)
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### 🛠️ Skills & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -35,16 +35,16 @@
 
 ---
 
-### 📂 Repositorios destacados
+### 📂 Featured Repositories
 
-- [SistemaCalificaciones](https://github.com/Nicolas-Lastra/SistemaCalificaciones): Sistema de calificaciones utilizando Spring Boot y MySQL.
-- [basic-form-servlet](https://github.com/Nicolas-Lastra/basic-form-servlet): Proyecto básico en Java que utiliza Tomcat para comunicar un formulario con servlets.
-- [horoscopo](https://github.com/Nicolas-Lastra/horoscopo): Aplicación Java para mostrar horóscopos.
-- [cafeteria-website](https://github.com/Nicolas-Lastra/cafeteria-website): Sitio web de cafetería desarrollado con HTML y CSS.
+- [SistemaCalificaciones](https://github.com/Nicolas-Lastra/SistemaCalificaciones): Grade management system using Spring Boot and MySQL.
+- [basic-form-servlet](https://github.com/Nicolas-Lastra/basic-form-servlet): Java project using Tomcat to connect forms with servlets.
+- [horoscopo](https://github.com/Nicolas-Lastra/horoscopo): Java app that displays horoscopes.
+- [cafeteria-website](https://github.com/Nicolas-Lastra/cafeteria-website): Café website created using HTML and CSS.
 
 ---
 
-### 📈 Estadísticas de GitHub
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nicolas-Lastra&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -52,14 +52,14 @@
 
 ---
 
-### 📫 Contacto
+### 📫 Contact
 
 - 📧 Email: [nicolas.lastra@example.com](mailto:nicolas.lastra@example.com)
 - 💼 LinkedIn: [linkedin.com/in/nicolaslastra](https://www.linkedin.com/in/nicolaslastra)
 
 ---
 
-### 🚀 Objetivo
+### 🚀 Career Goals
 
-Actualmente, estoy en búsqueda de oportunidades para aplicar y expandir mis habilidades como desarrollador Full Stack, contribuyendo a proyectos innovadores y desafiantes.
+I'm currently seeking opportunities to grow and contribute as a Full Stack Developer, working on innovative and challenging projects that make a difference.
 
