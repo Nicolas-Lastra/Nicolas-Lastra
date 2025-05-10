@@ -1,9 +1,6 @@
 <!-- Animated Header -->
-<p align="center">
-  <a href="https://github.com/Nicolas-Lastra">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nicol%C3%A1s+Lastra+Inzunza;Full+Stack+Java+Developer+%7C+Front-End+Developer;Passionate+about+tech+and+continuous+learning" alt="Typing SVG" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Full-stack+Web+Developer;Swapping+gears+for+code" alt="Typing SVG" />
+</a>
 
 ---
 
@@ -14,7 +11,7 @@
 - 💻 Full Stack Developer focused on Java and web technologies
 - 📚 Education:
   - Full Stack Java Bootcamp (SENCE certified, Chile)
-  - Web Development at CoderHouse (currently in progress)
+  - Web Development at CoderHouse, using JavaScript and Angular (currently in progress)
 - 🌐 Highlighted Project: [aromaaustral.cl](https://aromaaustral.cl/)
   - Website built using HTML, CSS, SASS, Bootstrap, and JavaScript (Formspree integration)
 
@@ -37,29 +34,19 @@
 
 ### 📂 Featured Repositories
 
+- [cafeteria-website](https://github.com/Nicolas-Lastra/cafeteria-website): Café website created using HTML and CSS.
 - [SistemaCalificaciones](https://github.com/Nicolas-Lastra/SistemaCalificaciones): Grade management system using Spring Boot and MySQL.
 - [basic-form-servlet](https://github.com/Nicolas-Lastra/basic-form-servlet): Java project using Tomcat to connect forms with servlets.
 - [horoscopo](https://github.com/Nicolas-Lastra/horoscopo): Java app that displays horoscopes.
-- [cafeteria-website](https://github.com/Nicolas-Lastra/cafeteria-website): Café website created using HTML and CSS.
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nicolas-Lastra&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
 ---
 
 ### 📫 Contact
 
-- 📧 Email: [nicolas.lastra@example.com](mailto:nicolas.lastra@example.com)
-- 💼 LinkedIn: [linkedin.com/in/nicolaslastra](https://www.linkedin.com/in/nicolaslastra)
+- 📧 Email: [nicolas.lastra.inzunza@gmail.com](mailto:nicolas.lastra@example.com)
+- 💼 LinkedIn: [linkedin.com/in/nicolás-lastra-inzunza](https://www.linkedin.com/in/nicol%C3%A1s-lastra-inzunza/)
 
 ---
 
 ### 🚀 Career Goals
 
-I'm currently seeking opportunities to grow and contribute as a Full Stack Developer, working on innovative and challenging projects that make a difference.
-
+I'm currently working as a **freelance Full Stack Web Developer**, taking on diverse web development projects. I'm especially interested in collaborating on initiatives that have a **positive social impact** — from empowering communities to building accessible and inclusive technology.
