@@ -8,10 +8,11 @@
 
 - 🌍 Based in Lago Verde, Aysén Region, Chile 🇨🇱
 - 🔄 Former Mechanical Engineer transitioning into the tech industry
-- 💻 Full Stack Developer focused on Java and web technologies
+- 💻 Full Stack Developer focused on Java, JavaScript and web technologies
 - 📚 Education:
   - Full Stack Java Bootcamp (SENCE certified, Chile)
-  - Web Development at CoderHouse, using JavaScript and Angular (currently in progress)
+  - Web Development at CoderHouse, using JavaScript and Angular
+  - Node.js, Express.js and React (self-taught)
 - 🌐 Highlighted Project: [aromaaustral.cl](https://aromaaustral.cl/)
   - Website built using HTML, CSS, SASS, Bootstrap, and JavaScript (Formspree integration)
 
@@ -21,9 +22,10 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -35,8 +37,8 @@
 ### 📂 Featured Repositories
 
 - [cafeteria-website](https://github.com/Nicolas-Lastra/cafeteria-website): Café website created using HTML and CSS.
+- [nodejs-clean-architecture](https://github.com/Nicolas-Lastra/nodejs-clean-architecture): An API REST developed with Node.js, Express.js and applying clean architecture (architectural pattern).
 - [SistemaCalificaciones](https://github.com/Nicolas-Lastra/SistemaCalificaciones): Grade management system using Spring Boot and MySQL.
-- [basic-form-servlet](https://github.com/Nicolas-Lastra/basic-form-servlet): Java project using Tomcat to connect forms with servlets.
 - [horoscopo](https://github.com/Nicolas-Lastra/horoscopo): Java app that displays horoscopes.
 ---
 
